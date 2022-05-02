@@ -4,7 +4,7 @@ See [here](https://openaccess.thecvf.com/content/CVPR2021/html/Su_ArtCoder_An_En
 
 ## Sample outputs
 
-![Result 1](img/readme/res1.png)
+![Result 1](img/readme/res1.PNG)
 
 
-![Result 2](img/readme/res2.png)
+![Result 2](./img/readme/res2.PNG)
